@@ -58,7 +58,7 @@
   
 <!-- Social Media -->  
   <div align="right">
-    <a href="https://instagram.com/iah.uchoa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/iah.uch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:contatoiuch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/iah-uch" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
@@ -72,8 +72,6 @@
     <img height="155rem" src="https://readme-stats.clckblog.space/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=10&theme=monokai&hide_border=true"/>
     <img width=850  src=https://github.com/Iah-Uch/Iah-Uch/blob/output/github-contribution-grid-snake.svg/>
   </div>
-
-<!--   ![Snake animation](https://github.com/Iah-Uch/Iah-Uch/blob/output/github-contribution-grid-snake.svg) -->
     
  
 
