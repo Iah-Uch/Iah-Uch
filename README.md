@@ -16,7 +16,7 @@
   </div>
   
 <!-- Recent Work -->  
-<div>
+<!--<div>
   <h4 align="left">
     What I'm up to lately ^ ↀ ᴥ ↀ ^
   </h4>
@@ -29,7 +29,7 @@
       🌐 Django.
     </li>
   </ul>
-</div>
+</div> -->  
   
 <!-- Repos -->
 <!-- <div>
