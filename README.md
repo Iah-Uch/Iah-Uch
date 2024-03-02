@@ -3,7 +3,7 @@
 <!-- Greeting -->
   <div>  
     <h1> <img width="50" height="50" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/>
-      <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&lines=Hi%2C+I'm+I%C3%A3h!"/>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=5000&color=531AF7&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+I%C3%A3h!" alt="Typing SVG" /></a>
     </h1>   
   </div>
   
@@ -16,46 +16,24 @@
   </div>
   
 <!-- Recent Work -->  
-<!--<div>
+<div>
   <h4 align="left">
     What I'm up to lately ^ ↀ ᴥ ↀ ^
   </h4>
   
   <ul>
     <li>
-      🐍 Python APIs;
+      🐍 Python;
     </li>
     <li>
       🌐 Django.
     </li>
-  </ul>
-</div> -->  
-  
-<!-- Repos -->
-<!-- <div>
-  <h4 align="left">
-    My Repositories
-  </h4>
-  
-  <ul>
     <li>
-      <a  target="_blank" href="https://github.com/Iah-Uch/biocrops-repo">Biocrops</a>
-    </li>
-    <li>
-      <a  target="_blank" href="https://github.com/Iah-Uch/BuddyResc">BuddyResc</a>
-    </li>
-    <li>  
-      <a  target="_blank" href="https://github.com/Iah-Uch/WB-DataDict-Mod">DataDict Mod</a>  
-    </li>
-    <li>  
-      <a  target="_blank" href="https://github.com/Iah-Uch/LubyDrinks-BD">LubyDrinks-BD</a>  
-    </li>
-    <li>
-      <a  target="_blank" href="https://github.com/Iah-Uch/vuttr_back">VUTTR</a>
+      🤖 Machine Learning.
     </li>
   </ul>
-</div> -->
-  
+</div>
+
 <!-- Social Media -->  
   <div align="right">
     <a href="https://instagram.com/iah.uch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
