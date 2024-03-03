@@ -26,7 +26,7 @@
       🐍 Python;
     </li>
     <li>
-      🌐 Django.
+      🌐 Django;
     </li>
     <li>
       🤖 Machine Learning.
