@@ -46,7 +46,7 @@
 <!-- User Stats/ Commit Snake -->  
   <div align="center" >
     <a href="https://github.com/Iah-Uch">
-    <img height="160vw" src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&hide=contribs&show_icons=true&layout=compact&theme=midnight-purple&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&bg_color=00000000"/>
+    <img height="160vw" src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&hide=contribs&show_icons=true&layout=compact&theme=midnight-purple&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&bg_color=00000000&hide_rank=true&custom_title=Github+Status"/>
     <img height="160vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=10&theme=midnight-purple&bg_color=00000000"/>
 <!--     <img width=400  src=https://github.com/Iah-Uch/Iah-Uch/blob/output/github-contribution-grid-snake.svg/> -->
   </div>
