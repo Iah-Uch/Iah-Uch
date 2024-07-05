@@ -11,7 +11,7 @@
   
 <!-- Bio -->
   <div>
-    <p>A brazillian Back-end Developer who enjoys doing art and fulltime cat patting.
+    <p>A brazillian Back-end Developer who enjoys making art and fulltime cat patting.
     </p>
   </div>
   
