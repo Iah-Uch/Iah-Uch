@@ -16,7 +16,7 @@
   </div>
   
 <!-- Recent Work -->  
-<div>
+<!-- <div>
   <h4 align="left">
     What I'm up to lately ^ ↀ ᴥ ↀ ^
   </h4>
@@ -32,7 +32,7 @@
       🤖 Machine Learning.
     </li>
   </ul>
-</div>
+</div> -->
 
 <!-- Social Media -->  
   <div align="right">
@@ -41,7 +41,7 @@
     <a href="https://www.linkedin.com/in/iah-uch" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
-  ##  
+  
 
 <!-- User Stats/ Commit Snake -->  
   <div align="center" >
@@ -52,11 +52,11 @@
   </div>
     
 
-  ## 
+ 
 
  <!-- Known Technologies -->   
   <div align="center">  
-    <p>
+    <!-- <p>
       <h3 align="top">Tools and Skills</h3>
       <a href="#" target="_blank" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -78,7 +78,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a  href="#" target="_blank" title="Arduino"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
-    </p>
+    </p> -->
 
   </div>
   
